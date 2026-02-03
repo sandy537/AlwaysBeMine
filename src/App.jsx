@@ -247,7 +247,7 @@ export default function Page() {
   useEffect(() => {
     if (yesPressed && noCount < 4 && !popupShown) {
       Swal.fire({
-        title: "I love you sooo Much!!!❤️, You’ve stolen my heart completely!!! 🥰💖 But itni pyaari ladki aur itni jaldi haan? Thoda aur nakhre karke mujhe tarpaao na! 🥰✨",
+        title: "I love you sooo Much!!!❤️, You’ve stolen my heart completely!!! 🥰💖 But my cutie pie ur such a darling and saying yes this soon? Thoda aur nakhre karke mujhe tarpaao na! 🥰✨",
         showClass: {
           popup: `
             animate__animated
@@ -401,7 +401,7 @@ const Footer = () => {
       <span role="img" aria-label="heart">
         ❤️
       </span>
-      {" "}by Ujjwal
+      {" "}by Sai
     </a>
   );
 };
